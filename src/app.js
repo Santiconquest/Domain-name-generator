@@ -13,7 +13,7 @@ window.onload = function() {
   let noun = ["jogger", "racoon"];
 
   function dominio() {
-    let result = "";
+    let result = " ";
     for (let pro of pronoun) {
       //console.log(pro);
       for (let ad of adj) {
